@@ -1,0 +1,71 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #EFF6EE;
+}
+img {
+    width: 180px;
+    height: 140px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+#Name {
+    
+    
+    width: 100%;
+    text-align: center;
+}
+header {
+    background-color: #345995;
+    text-align: center;
+
+}
+
+
+article #link{
+    text-decoration: none;
+    color:black; 
+}
+
+#link:hover{
+    color: #EAC435
+}
+#nav-bar {
+    background-color: black;
+    width: 25%;
+    color: white;
+    padding: 10px;
+}
+#nav-bar h2 {
+    margin-left: 40px;
+}
+
+#nav-bar a {
+    text-decoration: none;
+    color: white;
+    
+}
+
+#nav-bar li {
+   list-style-type: none; 
+   
+}
+
+article {
+    
+    width: 70%;
+    margin-top: 30px;
+    margin-left: 100px;
+    
+}
+
+.blue-heading {
+    color: #FF8C42;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+footer {
+    margin-left: 100px;
+    margin-top: 50px;
+}
